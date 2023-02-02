@@ -1,0 +1,2 @@
+# SimarropopQt
+Trabajo Qt
